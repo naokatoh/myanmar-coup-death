@@ -19,3 +19,8 @@
 - Using Illustrator, I created pictogram representing each person killed after the coup. 
 
 - A project page is [here](https://naokatoh.github.io/myanmar-coup-death/)
+
+## File
+
+- Recent-fatality-List-for-April-15-2022-English.pdf is the original data
+- coup_death.ipynb and coup_death2.ipynb is the notebook for analysis
