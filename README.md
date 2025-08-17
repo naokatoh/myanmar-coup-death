@@ -1,26 +1,25 @@
 # myanmar-coup-death
 
-- After the 2021's coup in Myanmar, more than a year has passed.
+- More than a year has passed since the 2021 coup in Myanmar.
+- Many countries, including the United States, have condemned Myanmar's military regime and responded with economic sanctions and other measures. However, the democratization process that began in the 2010s has not been restored. Meanwhile, the military junta continues to repress its citizens, and the death toll continues to rise almost every day.
 
-- Many countries, including the United States, condemned Myanmar's military regime and countered it with economic sanctions and other measures. However, the democratization process that has been underway since the 2010s has not been restored. Meanwhile, the military junta continues to repress its citizens. Death tolls continue to rise almost every day.
+-The Assistance Association for Political Prisoners (AAPP Burma), an activist group, has been recording every death and arrest daily and publishing the data. As of April 30, more than 1,800 people had reportedly been killed in the post-coup military crackdown.
 
-- The Assistance Association for Political Prisoners (the AAPP Burma), an activist group, has been recording every death and the arrested and publishing it on the daily basis. By April 30, more than 1800 people had reportedly been killed in the post-coup military crackdown.
-
-- This project aims to visualize [the AAPP's list as of April 15](https://aappb.org/?p=21071) and to tell the stories of those who fell. Chronological analysis of the list indicates that the military regime has increased repression, not lessened, over the past year.
+- This project aims to visualize [the AAPP's list as of April 15](https://aappb.org/?p=21071) and to tell the stories of those who fell. Chronological analysis of the list indicates that the military regime's repression has increased, not decreased, over the past year.
 
 ## Methodology 
 
-- This project uses the AAPP's data published as of April 15. Fatalities are counted based on the date of the incident. The details of those who were killed are derived from the AAPP's data and media articles. Since their age is calculated in Myanmar's traditional manner, it may differ from media reports. The number of the deceased might be undercounted because of the scale of the incidents.
+- This project uses AAPP data published as of April 15. Fatalities are counted based on the date of the incident. The details of the deceased are derived from AAPP data and media articles. Since their ages are calculated in Myanmar's traditional manner, they may differ from media reports. The number of deceased might be undercounted due to the scale of the incidents.
 
-- Using OCR and pandas, I analyzed people killed by the junta. Also researched news articled published by local and international media and find further detailed of people on this list
+- Using OCR and pandas, I analyzed victims killed by the junta. I also researched news articles published by local and international media to find further details of the victims on this list.
 
 ## Visualization
 
-- Using Illustrator, I created pictogram representing each person killed after the coup. 
+- Using Adobe Illustrator, I created pictograms representing each person killed after the coup.
 
 - A project page is [here](https://naokatoh.github.io/myanmar-coup-death/)
 
 ## File
 
 - Recent-fatality-List-for-April-15-2022-English.pdf is the original data
-- coup_death.ipynb and coup_death2.ipynb is the notebook for analysis
+- coup_death.ipynb and coup_death2.ipynb are the notebooks for analysis
